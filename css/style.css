@@ -1,4 +1,5 @@
 body {
+	margin-left: 20px;
 	background-color: #fff;
 	background-image: url("../img/obook3red.png");
 	background-repeat: no-repeat;
@@ -8,10 +9,10 @@ body {
 
 .gora {
 	margin-bottom: 50px;
+	margin-left: -20px;
 }
 
 footer {
-	margin-top: 40px;
 	text-align: center;
 	position: absolute;
     bottom: 0;
